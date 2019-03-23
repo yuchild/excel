@@ -1,0 +1,1001 @@
+trip_id,bikeid,from_station_id,station_id_num,station_id_letters,from_station_name,OCCIDENTAL
+30440,SEA00395,BT-03,03,BT,2nd Ave & Vine St,0
+15728,SEA00475,ID-04,04,ID,6th Ave S & S King St,0
+7046,SEA00202,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+69218,SEA00272,CH-12,12,CH,Bellevue Ave & E Pine St,0
+100616,SEA00249,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+83922,SEA00037,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+53181,SEA00230,CH-09,09,CH,Harvard Ave & E Pine St,0
+124681,SEA00256,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+52803,SEA00333,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+119295,SEA00185,DPD-01,01,DPD,9th Ave N & Mercer St,0
+11637,SEA00238,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+36010,SEA00345,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+112840,SEA00185,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+147118,SEA00028,CH-09,09,CH,Harvard Ave & E Pine St,0
+58433,SEA00456,BT-03,03,BT,2nd Ave & Vine St,0
+46231,SEA00434,SLU-16,16,SLU,Pine St & 9th Ave,0
+106357,SEA00499,CBD-06,06,CBD,2nd Ave & Spring St,0
+65289,SEA00154,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+14031,SEA00023,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+37679,SEA00287,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+121049,SEA00217,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+125340,SEA00451,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+129079,SEA00212,CBD-05,05,CBD,1st Ave & Marion St,0
+143456,SEA00416,BT-01,01,BT,3rd Ave & Broad St,0
+116674,SEA00321,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+54799,SEA00305,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+38863,SEA00375,CBD-13,13,CBD,2nd Ave & Pine St,0
+60299,SEA00267,BT-01,01,BT,3rd Ave & Broad St,0
+6773,SEA00450,CH-05,05,CH,15th Ave E & E Thomas St,0
+142479,SEA00173,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+146367,SEA00245,BT-01,01,BT,3rd Ave & Broad St,0
+108525,SEA00294,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+66128,SEA00181,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+100029,SEA00035,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+110288,SEA00228,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+104584,SEA00445,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+54408,SEA00248,CH-01,01,CH,Summit Ave & E Denny Way,0
+125225,SEA00265,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+36789,SEA00416,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+63154,SEA00150,CH-06,06,CH,12th Ave & E Denny Way,0
+136011,SEA00116,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+25596,SEA00145,CH-07,07,CH,E Pine St & 16th Ave,0
+61225,SEA00250,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+36388,SEA00151,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+74795,SEA00388,BT-03,03,BT,2nd Ave & Vine St,0
+105404,SEA00272,SLU-16,16,SLU,Pine St & 9th Ave,0
+63151,SEA00417,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+89091,SEA00166,CH-01,01,CH,Summit Ave & E Denny Way,0
+7295,SEA00429,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+148970,SEA00482,BT-01,01,BT,3rd Ave & Broad St,0
+28712,SEA00145,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+123729,SEA00167,DPD-01,01,DPD,9th Ave N & Mercer St,0
+125425,SEA00221,CH-09,09,CH,Harvard Ave & E Pine St,0
+40508,SEA00213,CBD-13,13,CBD,2nd Ave & Pine St,0
+49307,SEA00192,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+76158,SEA00143,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+156795,SEA00223,BT-01,01,BT,3rd Ave & Broad St,0
+88142,SEA00228,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+39528,SEA00404,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+60784,SEA00259,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+52041,SEA00065,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+143730,SEA00304,SLU-16,16,SLU,Pine St & 9th Ave,0
+48217,SEA00343,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+30407,SEA00128,SLU-16,16,SLU,Pine St & 9th Ave,0
+154729,SEA00319,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+41941,SEA00404,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+155284,SEA00212,CBD-13,13,CBD,2nd Ave & Pine St,0
+145395,SEA00357,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+134821,SEA00368,CD-01,01,CD,12th Ave & E Yesler Way,0
+112312,SEA00419,SLU-20,20,SLU,Terry Ave & Stewart St,0
+93230,SEA00187,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+147214,SEA00196,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+105727,SEA00317,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+130807,SEA00357,SLU-20,20,SLU,Terry Ave & Stewart St,0
+98826,SEA00178,UW-04,04,UW,15th Ave NE & NE 40th St,0
+100382,SEA00206,BT-01,01,BT,3rd Ave & Broad St,0
+47729,SEA00434,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+16695,SEA00144,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+149421,SEA00134,CH-15,15,CH,12th Ave & E Mercer St,0
+127018,SEA00484,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+123567,SEA00260,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+7456,SEA00230,CBD-13,13,CBD,2nd Ave & Pine St,0
+73897,SEA00276,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+120593,SEA00177,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+130093,SEA00295,CH-09,09,CH,Harvard Ave & E Pine St,0
+22654,SEA00398,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+54144,SEA00046,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+2091,SEA00483,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+152872,SEA00265,CH-12,12,CH,Bellevue Ave & E Pine St,0
+144447,SEA00293,BT-05,05,BT,2nd Ave & Blanchard St,0
+850,SEA00436,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+107345,SEA00142,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+96113,SEA00227,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+44397,SEA00134,BT-01,01,BT,3rd Ave & Broad St,0
+2203,SEA00165,CBD-03,03,CBD,7th Ave & Union St,0
+52822,SEA00377,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+148278,SEA00209,BT-03,03,BT,2nd Ave & Vine St,0
+113454,SEA00281,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+101122,SEA00239,UW-07,07,UW,UW Intramural Activities Building,0
+108537,SEA00282,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+118264,SEA00437,BT-04,04,BT,6th Ave & Blanchard St,0
+20230,SEA00440,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+65220,SEA00029,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+68021,SEA00023,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+42282,SEA00162,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+153924,SEA00022,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+3349,SEA00303,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+73975,SEA00041,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+106511,SEA00160,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+103575,SEA00154,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+50531,SEA00360,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+115475,SEA00180,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+140010,SEA00412,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+111053,SEA00275,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+118971,SEA00423,CH-05,05,CH,15th Ave E & E Thomas St,0
+140580,SEA00263,BT-03,03,BT,2nd Ave & Vine St,0
+67526,SEA00429,BT-04,04,BT,6th Ave & Blanchard St,0
+48338,SEA00193,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+794,SEA00483,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+46974,SEA00312,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+99984,SEA00464,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+148063,SEA00121,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+27213,SEA00264,CH-12,12,CH,Bellevue Ave & E Pine St,0
+104453,SEA00056,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+33352,SEA00397,CBD-13,13,CBD,2nd Ave & Pine St,0
+119371,SEA00147,BT-04,04,BT,6th Ave & Blanchard St,0
+137939,SEA00174,BT-03,03,BT,2nd Ave & Vine St,0
+43869,SEA00139,DPD-01,01,DPD,9th Ave N & Mercer St,0
+60825,SEA00203,CBD-03,03,CBD,7th Ave & Union St,0
+108534,SEA00232,CH-05,05,CH,15th Ave E & E Thomas St,0
+47347,SEA00385,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+17672,SEA00382,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+22313,SEA00040,UW-06,06,UW,UW Engineering Library / E Stevens Way NE & Jefferson Rd,0
+131333,SEA00414,CH-07,07,CH,E Pine St & 16th Ave,0
+67675,SEA00465,BT-01,01,BT,3rd Ave & Broad St,0
+73687,SEA00450,CH-01,01,CH,Summit Ave & E Denny Way,0
+106586,SEA00300,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+129491,SEA00107,CBD-05,05,CBD,1st Ave & Marion St,0
+24396,SEA00209,CH-05,05,CH,15th Ave E & E Thomas St,0
+97512,SEA00055,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+1818,SEA00052,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+92619,SEA00313,CBD-05,05,CBD,1st Ave & Marion St,0
+4907,SEA00270,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+39980,SEA00483,CH-01,01,CH,Summit Ave & E Denny Way,0
+39835,SEA00183,CH-09,09,CH,Harvard Ave & E Pine St,0
+23300,SEA00188,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+145547,SEA00486,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+126541,SEA00393,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+1817,SEA00267,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+154658,SEA00261,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+82891,SEA00356,BT-05,05,BT,2nd Ave & Blanchard St,0
+120398,SEA00137,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+56704,SEA00364,CH-01,01,CH,Summit Ave & E Denny Way,0
+137033,SEA00397,CBD-13,13,CBD,2nd Ave & Pine St,0
+18883,SEA00311,BT-05,05,BT,2nd Ave & Blanchard St,0
+71439,SEA00462,CH-01,01,CH,Summit Ave & E Denny Way,0
+109667,SEA00055,CH-05,05,CH,15th Ave E & E Thomas St,0
+115812,SEA00056,SLU-16,16,SLU,Pine St & 9th Ave,0
+79521,SEA00127,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+5078,SEA00321,BT-01,01,BT,3rd Ave & Broad St,0
+93796,SEA00192,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+153797,SEA00382,CH-05,05,CH,15th Ave E & E Thomas St,0
+139517,SEA00317,CH-03,03,CH,Summit Ave E & E Republican St,0
+4212,SEA00143,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+58266,SEA00194,CH-15,15,CH,12th Ave & E Mercer St,0
+75949,SEA00023,CBD-13,13,CBD,2nd Ave & Pine St,0
+39334,SEA00040,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+2491,SEA00212,CBD-13,13,CBD,2nd Ave & Pine St,0
+39252,SEA00139,CBD-06,06,CBD,2nd Ave & Spring St,0
+94094,SEA00084,BT-05,05,BT,2nd Ave & Blanchard St,0
+109662,SEA00393,CD-01,01,CD,12th Ave & E Yesler Way,0
+66787,SEA00240,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+1108,SEA00171,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+106364,SEA00223,BT-03,03,BT,2nd Ave & Vine St,0
+129736,SEA00063,CH-01,01,CH,Summit Ave & E Denny Way,0
+113012,SEA00452,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+84497,SEA00280,DPD-01,01,DPD,9th Ave N & Mercer St,0
+58253,SEA00384,BT-05,05,BT,2nd Ave & Blanchard St,0
+154717,SEA00299,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+101621,SEA00235,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+46214,SEA00279,BT-01,01,BT,3rd Ave & Broad St,0
+76578,SEA00052,BT-05,05,BT,2nd Ave & Blanchard St,0
+120723,SEA00312,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+44852,SEA00149,CH-06,06,CH,12th Ave & E Denny Way,0
+130698,SEA00055,UD-02,02,UD,NE 42nd St & University Way NE,0
+43439,SEA00254,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+50403,SEA00035,CH-09,09,CH,Harvard Ave & E Pine St,0
+127187,SEA00477,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+59926,SEA00379,CH-01,01,CH,Summit Ave & E Denny Way,0
+155005,SEA00171,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+107589,SEA00323,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+53520,SEA00292,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+119654,SEA00103,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+64504,SEA00440,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+95808,SEA00160,BT-01,01,BT,3rd Ave & Broad St,0
+134639,SEA00393,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+89148,SEA00121,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+12277,SEA00278,CBD-13,13,CBD,2nd Ave & Pine St,0
+62857,SEA00465,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+42932,SEA00455,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+75269,SEA00431,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+17054,SEA00038,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+98557,SEA00079,CD-01,01,CD,12th Ave & E Yesler Way,0
+59373,SEA00393,BT-01,01,BT,3rd Ave & Broad St,0
+28122,SEA00181,CH-03,03,CH,Summit Ave E & E Republican St,0
+83168,SEA00306,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+15845,SEA00446,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+99273,SEA00280,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+86484,SEA00035,CBD-05,05,CBD,1st Ave & Marion St,0
+61944,SEA00247,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+28158,SEA00191,CH-05,05,CH,15th Ave E & E Thomas St,0
+137145,SEA00315,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+106427,SEA00360,CH-09,09,CH,Harvard Ave & E Pine St,0
+9097,SEA00333,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+97970,SEA00415,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+77997,SEA00141,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+59269,SEA00459,UW-06,06,UW,UW Engineering Library / E Stevens Way NE & Jefferson Rd,0
+7960,SEA00244,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+84317,SEA00122,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+88563,SEA00160,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+96844,SEA00097,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+87765,SEA00142,CH-12,12,CH,Bellevue Ave & E Pine St,0
+78688,SEA00207,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+126369,SEA00286,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+20046,SEA00267,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+36809,SEA00299,CH-05,05,CH,15th Ave E & E Thomas St,0
+123206,SEA00435,UD-02,02,UD,NE 42nd St & University Way NE,0
+30228,SEA00483,SLU-16,16,SLU,Pine St & 9th Ave,0
+20223,SEA00335,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+52576,SEA00444,UD-02,02,UD,NE 42nd St & University Way NE,0
+47764,SEA00429,SLU-16,16,SLU,Pine St & 9th Ave,0
+24376,SEA00476,BT-04,04,BT,6th Ave & Blanchard St,0
+49596,SEA00483,SLU-16,16,SLU,Pine St & 9th Ave,0
+36429,SEA00361,CH-01,01,CH,Summit Ave & E Denny Way,0
+62021,SEA00023,BT-05,05,BT,2nd Ave & Blanchard St,0
+97357,SEA00245,CH-12,12,CH,Bellevue Ave & E Pine St,0
+26497,SEA00301,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+96986,SEA00186,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+148259,SEA00290,CH-15,15,CH,12th Ave & E Mercer St,0
+70290,SEA00030,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+109004,SEA00177,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+79366,SEA00387,CH-15,15,CH,12th Ave & E Mercer St,0
+15950,SEA00118,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+13597,SEA00205,CH-07,07,CH,E Pine St & 16th Ave,0
+100033,SEA00087,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+99920,SEA00119,CH-15,15,CH,12th Ave & E Mercer St,0
+115174,SEA00325,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+6371,SEA00079,CH-12,12,CH,Bellevue Ave & E Pine St,0
+83888,SEA00054,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+103074,SEA00116,CH-07,07,CH,E Pine St & 16th Ave,0
+57872,SEA00162,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+13482,SEA00406,DPD-01,01,DPD,9th Ave N & Mercer St,0
+142724,SEA00345,CH-03,03,CH,Summit Ave E & E Republican St,0
+95021,SEA00380,BT-03,03,BT,2nd Ave & Vine St,0
+641,SEA00263,CBD-06,06,CBD,2nd Ave & Spring St,0
+22340,SEA00064,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+148608,SEA00361,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+90920,SEA00124,CH-15,15,CH,12th Ave & E Mercer St,0
+142545,SEA00214,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+67466,SEA00067,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+9268,SEA00246,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+84966,SEA00350,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+43900,SEA00336,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+135037,SEA00364,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+106398,SEA00127,CBD-13,13,CBD,2nd Ave & Pine St,0
+134528,SEA00328,BT-04,04,BT,6th Ave & Blanchard St,0
+94609,SEA00240,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+106111,SEA00360,BT-01,01,BT,3rd Ave & Broad St,0
+100533,SEA00070,BT-01,01,BT,3rd Ave & Broad St,0
+25979,SEA00484,BT-05,05,BT,2nd Ave & Blanchard St,0
+135015,SEA00380,CH-07,07,CH,E Pine St & 16th Ave,0
+3753,SEA00319,CH-07,07,CH,E Pine St & 16th Ave,0
+46174,SEA00035,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+113473,SEA00183,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+141608,SEA00228,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+77258,SEA00127,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+80936,SEA00279,SLU-16,16,SLU,Pine St & 9th Ave,0
+151707,SEA00224,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+101768,SEA00325,CH-05,05,CH,15th Ave E & E Thomas St,0
+57958,SEA00320,CH-06,06,CH,12th Ave & E Denny Way,0
+26972,SEA00124,CH-05,05,CH,15th Ave E & E Thomas St,0
+155430,SEA00463,CH-09,09,CH,Harvard Ave & E Pine St,0
+49727,SEA00260,CBD-13,13,CBD,2nd Ave & Pine St,0
+123524,SEA00133,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+146276,SEA00206,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+122928,SEA00356,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+146045,SEA00208,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+22428,SEA00218,CH-03,03,CH,Summit Ave E & E Republican St,0
+3943,SEA00102,BT-04,04,BT,6th Ave & Blanchard St,0
+147614,SEA00202,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+88391,SEA00069,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+141442,SEA00449,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+50824,SEA00395,BT-03,03,BT,2nd Ave & Vine St,0
+84981,SEA00407,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+24210,SEA00477,CH-01,01,CH,Summit Ave & E Denny Way,0
+140387,SEA00312,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+73218,SEA00124,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+83662,SEA00316,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+119165,SEA00172,CBD-05,05,CBD,1st Ave & Marion St,0
+57033,SEA00369,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+143159,SEA00329,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+98253,SEA00485,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+80610,SEA00100,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+12246,SEA00352,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+23634,SEA00452,CBD-03,03,CBD,7th Ave & Union St,0
+155151,SEA00100,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+95355,SEA00324,BT-01,01,BT,3rd Ave & Broad St,0
+1712,SEA00034,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+114711,SEA00052,BT-05,05,BT,2nd Ave & Blanchard St,0
+56740,SEA00454,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+65783,SEA00226,SLU-16,16,SLU,Pine St & 9th Ave,0
+53597,SEA00269,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+65427,SEA00063,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+28443,SEA00432,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+121046,SEA00484,CH-06,06,CH,12th Ave & E Denny Way,0
+78336,SEA00091,CH-07,07,CH,E Pine St & 16th Ave,0
+107224,SEA00025,CH-09,09,CH,Harvard Ave & E Pine St,0
+79790,SEA00474,SLU-16,16,SLU,Pine St & 9th Ave,0
+111440,SEA00423,UW-07,07,UW,UW Intramural Activities Building,0
+68991,SEA00242,BT-05,05,BT,2nd Ave & Blanchard St,0
+101189,SEA00230,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+42649,SEA00467,BT-04,04,BT,6th Ave & Blanchard St,0
+21224,SEA00127,BT-01,01,BT,3rd Ave & Broad St,0
+124773,SEA00314,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+38706,SEA00282,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+137146,SEA00435,BT-03,03,BT,2nd Ave & Vine St,0
+41554,SEA00262,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+141341,SEA00322,UD-02,02,UD,NE 42nd St & University Way NE,0
+148685,SEA00348,CH-09,09,CH,Harvard Ave & E Pine St,0
+88450,SEA00498,CH-03,03,CH,Summit Ave E & E Republican St,0
+45020,SEA00163,CH-03,03,CH,Summit Ave E & E Republican St,0
+91490,SEA00105,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+90585,SEA00397,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+117074,SEA00454,CH-12,12,CH,Bellevue Ave & E Pine St,0
+95642,SEA00278,CH-01,01,CH,Summit Ave & E Denny Way,0
+56978,SEA00062,CH-09,09,CH,Harvard Ave & E Pine St,0
+14589,SEA00443,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+148093,SEA00364,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+146828,SEA00379,CH-06,06,CH,12th Ave & E Denny Way,0
+32254,SEA00175,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+8194,SEA00221,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+14569,SEA00222,CH-06,06,CH,12th Ave & E Denny Way,0
+58370,SEA00113,BT-03,03,BT,2nd Ave & Vine St,0
+86481,SEA00482,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+90890,SEA00298,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+5792,SEA00427,CH-12,12,CH,Bellevue Ave & E Pine St,0
+143231,SEA00418,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+28976,SEA00151,CH-01,01,CH,Summit Ave & E Denny Way,0
+16104,SEA00285,CH-07,07,CH,E Pine St & 16th Ave,0
+151827,SEA00135,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+34296,SEA00266,CH-07,07,CH,E Pine St & 16th Ave,0
+148944,SEA00373,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+85917,SEA00410,BT-03,03,BT,2nd Ave & Vine St,0
+113441,SEA00057,CBD-05,05,CBD,1st Ave & Marion St,0
+78354,SEA00302,BT-05,05,BT,2nd Ave & Blanchard St,0
+65280,SEA00352,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+22175,SEA00080,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+53665,SEA00067,SLU-16,16,SLU,Pine St & 9th Ave,0
+54008,SEA00179,CH-07,07,CH,E Pine St & 16th Ave,0
+131552,SEA00239,CH-09,09,CH,Harvard Ave & E Pine St,0
+126121,SEA00057,BT-01,01,BT,3rd Ave & Broad St,0
+63721,SEA00416,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+113902,SEA00031,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+107968,SEA00151,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+83193,SEA00255,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+113301,SEA00114,CH-12,12,CH,Bellevue Ave & E Pine St,0
+126985,SEA00410,DPD-01,01,DPD,9th Ave N & Mercer St,0
+111628,SEA00374,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+135646,SEA00314,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+129888,SEA00173,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+131840,SEA00131,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+104270,SEA00101,CBD-06,06,CBD,2nd Ave & Spring St,0
+135090,SEA00490,CH-07,07,CH,E Pine St & 16th Ave,0
+143921,SEA00283,BT-03,03,BT,2nd Ave & Vine St,0
+54716,SEA00344,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+112705,SEA00370,BT-05,05,BT,2nd Ave & Blanchard St,0
+43903,SEA00228,BT-04,04,BT,6th Ave & Blanchard St,0
+154877,SEA00048,CH-09,09,CH,Harvard Ave & E Pine St,0
+89330,SEA00242,DPD-01,01,DPD,9th Ave N & Mercer St,0
+90717,SEA00443,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+35092,SEA00290,BT-03,03,BT,2nd Ave & Vine St,0
+65567,SEA00276,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+65592,SEA00065,CBD-03,03,CBD,7th Ave & Union St,0
+92445,SEA00361,CH-12,12,CH,Bellevue Ave & E Pine St,0
+115113,SEA00223,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+44918,SEA00288,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+94271,SEA00372,BT-01,01,BT,3rd Ave & Broad St,0
+10579,SEA00404,UD-02,02,UD,NE 42nd St & University Way NE,0
+36198,SEA00351,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+34440,SEA00262,BT-03,03,BT,2nd Ave & Vine St,0
+3700,SEA00081,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+106947,SEA00279,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+70421,SEA00392,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+31238,SEA00456,CH-01,01,CH,Summit Ave & E Denny Way,0
+137678,SEA00196,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+80287,SEA00084,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+4446,SEA00422,CH-07,07,CH,E Pine St & 16th Ave,0
+125624,SEA00249,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+90243,SEA00208,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+85086,SEA00188,UW-06,06,UW,UW Engineering Library / E Stevens Way NE & Jefferson Rd,0
+100205,SEA00332,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+153287,SEA00078,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+12945,SEA00406,CBD-06,06,CBD,2nd Ave & Spring St,0
+96532,SEA00315,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+29312,SEA00161,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+128961,SEA00470,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+50884,SEA00375,CH-15,15,CH,12th Ave & E Mercer St,0
+37659,SEA00282,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+47048,SEA00402,UW-04,04,UW,15th Ave NE & NE 40th St,0
+57128,SEA00491,ID-04,04,ID,6th Ave S & S King St,0
+78040,SEA00260,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+149737,SEA00298,CBD-03,03,CBD,7th Ave & Union St,0
+135939,SEA00372,CH-03,03,CH,Summit Ave E & E Republican St,0
+102232,SEA00326,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+101194,SEA00093,CH-07,07,CH,E Pine St & 16th Ave,0
+126867,SEA00107,CBD-13,13,CBD,2nd Ave & Pine St,0
+63299,SEA00347,CBD-06,06,CBD,2nd Ave & Spring St,0
+3109,SEA00067,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+77976,SEA00107,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+110515,SEA00049,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+867,SEA00128,CH-07,07,CH,E Pine St & 16th Ave,0
+15729,SEA00059,CBD-13,13,CBD,2nd Ave & Pine St,0
+147168,SEA00069,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+51058,SEA00084,BT-03,03,BT,2nd Ave & Vine St,0
+105359,SEA00314,SLU-16,16,SLU,Pine St & 9th Ave,0
+87528,SEA00055,BT-03,03,BT,2nd Ave & Vine St,0
+120755,SEA00433,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+153354,SEA00482,BT-05,05,BT,2nd Ave & Blanchard St,0
+117364,SEA00394,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+124794,SEA00437,CH-03,03,CH,Summit Ave E & E Republican St,0
+15777,SEA00359,DPD-01,01,DPD,9th Ave N & Mercer St,0
+103757,SEA00358,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+674,SEA00351,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+150351,SEA00402,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+135189,SEA00485,DPD-01,01,DPD,9th Ave N & Mercer St,0
+62972,SEA00178,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+146205,SEA00500,CBD-13,13,CBD,2nd Ave & Pine St,0
+54974,SEA00458,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+50473,SEA00124,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+67736,SEA00316,CBD-03,03,CBD,7th Ave & Union St,0
+139140,SEA00181,CH-09,09,CH,Harvard Ave & E Pine St,0
+110752,SEA00418,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+69204,SEA00336,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+103177,SEA00079,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+132089,SEA00171,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+118589,SEA00437,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+43294,SEA00057,CH-09,09,CH,Harvard Ave & E Pine St,0
+109103,SEA00092,CH-05,05,CH,15th Ave E & E Thomas St,0
+40064,SEA00432,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+49553,SEA00425,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+131305,SEA00475,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+53307,SEA00245,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+130236,SEA00245,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+43950,SEA00292,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+39052,SEA00043,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+134441,SEA00156,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+76914,SEA00478,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+95939,SEA00291,DPD-01,01,DPD,9th Ave N & Mercer St,0
+70202,SEA00063,SLU-16,16,SLU,Pine St & 9th Ave,0
+94365,SEA00352,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+40452,SEA00392,CBD-13,13,CBD,2nd Ave & Pine St,0
+138807,SEA00289,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+98339,SEA00324,CBD-05,05,CBD,1st Ave & Marion St,0
+12280,SEA00046,BT-03,03,BT,2nd Ave & Vine St,0
+10671,SEA00149,UD-02,02,UD,NE 42nd St & University Way NE,0
+30659,SEA00416,SLU-16,16,SLU,Pine St & 9th Ave,0
+50301,SEA00186,BT-03,03,BT,2nd Ave & Vine St,0
+39720,SEA00384,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+105514,SEA00254,CBD-13,13,CBD,2nd Ave & Pine St,0
+4523,SEA00282,CH-07,07,CH,E Pine St & 16th Ave,0
+103609,SEA00349,UW-07,07,UW,UW Intramural Activities Building,0
+48763,SEA00266,CH-15,15,CH,12th Ave & E Mercer St,0
+126548,SEA00164,CH-15,15,CH,12th Ave & E Mercer St,0
+70612,SEA00184,BT-03,03,BT,2nd Ave & Vine St,0
+112137,SEA00197,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+84881,SEA00101,CBD-06,06,CBD,2nd Ave & Spring St,0
+137245,SEA00470,DPD-01,01,DPD,9th Ave N & Mercer St,0
+17313,SEA00367,CBD-13,13,CBD,2nd Ave & Pine St,0
+151000,SEA00499,BT-05,05,BT,2nd Ave & Blanchard St,0
+46301,SEA00221,CH-07,07,CH,E Pine St & 16th Ave,0
+58533,SEA00296,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+130393,SEA00185,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+15393,SEA00439,CH-07,07,CH,E Pine St & 16th Ave,0
+67157,SEA00396,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+83035,SEA00286,CH-01,01,CH,Summit Ave & E Denny Way,0
+81725,SEA00166,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+97564,SEA00396,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+120703,SEA00315,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+83011,SEA00259,CH-01,01,CH,Summit Ave & E Denny Way,0
+138562,SEA00403,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+125695,SEA00122,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+34030,SEA00327,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+8807,SEA00268,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+22548,SEA00430,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+56385,SEA00181,CBD-03,03,CBD,7th Ave & Union St,0
+37611,SEA00322,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+62609,SEA00058,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+35388,SEA00060,BT-03,03,BT,2nd Ave & Vine St,0
+132726,SEA00193,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+89900,SEA00206,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+31285,SEA00349,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+131099,SEA00202,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+80728,SEA00428,CH-15,15,CH,12th Ave & E Mercer St,0
+42607,SEA00134,CH-01,01,CH,Summit Ave & E Denny Way,0
+143269,SEA00168,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+86334,SEA00189,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+52665,SEA00255,CBD-03,03,CBD,7th Ave & Union St,0
+24202,SEA00265,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+48246,SEA00116,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+73607,SEA00052,CH-07,07,CH,E Pine St & 16th Ave,0
+50946,SEA00488,UW-04,04,UW,15th Ave NE & NE 40th St,0
+137999,SEA00258,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+64113,SEA00142,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+46591,SEA00383,CH-06,06,CH,12th Ave & E Denny Way,0
+77329,SEA00488,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+67746,SEA00058,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+95092,SEA00106,CD-01,01,CD,12th Ave & E Yesler Way,0
+6034,SEA00418,CH-09,09,CH,Harvard Ave & E Pine St,0
+56270,SEA00409,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+131417,SEA00368,CH-07,07,CH,E Pine St & 16th Ave,0
+106971,SEA00437,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+32398,SEA00373,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+78947,SEA00175,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+2229,SEA00070,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+47904,SEA00356,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+113866,SEA00291,CH-12,12,CH,Bellevue Ave & E Pine St,0
+97354,SEA00442,CH-03,03,CH,Summit Ave E & E Republican St,0
+125849,SEA00224,CH-07,07,CH,E Pine St & 16th Ave,0
+130212,SEA00029,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+68977,SEA00485,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+85327,SEA00233,BT-05,05,BT,2nd Ave & Blanchard St,0
+67370,SEA00160,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+54618,SEA00125,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+70684,SEA00231,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+136288,SEA00464,CH-07,07,CH,E Pine St & 16th Ave,0
+1405,SEA00136,CH-05,05,CH,15th Ave E & E Thomas St,0
+39382,SEA00117,CH-07,07,CH,E Pine St & 16th Ave,0
+51403,SEA00354,ID-04,04,ID,6th Ave S & S King St,0
+107034,SEA00500,CH-12,12,CH,Bellevue Ave & E Pine St,0
+101185,SEA00253,CH-01,01,CH,Summit Ave & E Denny Way,0
+89284,SEA00193,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+141314,SEA00171,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+47349,SEA00475,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+10060,SEA00437,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+77359,SEA00320,CH-15,15,CH,12th Ave & E Mercer St,0
+46889,SEA00022,CH-05,05,CH,15th Ave E & E Thomas St,0
+124290,SEA00022,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+100424,SEA00421,DPD-01,01,DPD,9th Ave N & Mercer St,0
+1443,SEA00095,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+140029,SEA00243,CBD-03,03,CBD,7th Ave & Union St,0
+148416,SEA00307,BT-04,04,BT,6th Ave & Blanchard St,0
+124632,SEA00156,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+7634,SEA00342,BT-03,03,BT,2nd Ave & Vine St,0
+108549,SEA00410,CH-07,07,CH,E Pine St & 16th Ave,0
+141165,SEA00239,CH-12,12,CH,Bellevue Ave & E Pine St,0
+116835,SEA00328,SLU-16,16,SLU,Pine St & 9th Ave,0
+93281,SEA00195,CBD-13,13,CBD,2nd Ave & Pine St,0
+127982,SEA00101,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+91483,SEA00131,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+146878,SEA00264,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+25546,SEA00263,CBD-05,05,CBD,1st Ave & Marion St,0
+108564,SEA00174,CH-06,06,CH,12th Ave & E Denny Way,0
+86098,SEA00195,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+48249,SEA00245,SLU-16,16,SLU,Pine St & 9th Ave,0
+107557,SEA00141,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+93609,SEA00034,CBD-03,03,CBD,7th Ave & Union St,0
+151190,SEA00197,SLU-16,16,SLU,Pine St & 9th Ave,0
+115093,SEA00074,DPD-01,01,DPD,9th Ave N & Mercer St,0
+61513,SEA00268,UD-02,02,UD,NE 42nd St & University Way NE,0
+136551,SEA00145,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+64411,SEA00315,CBD-05,05,CBD,1st Ave & Marion St,0
+136210,SEA00189,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+126546,SEA00127,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+133091,SEA00175,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+75280,SEA00449,BT-05,05,BT,2nd Ave & Blanchard St,0
+151411,SEA00465,CH-07,07,CH,E Pine St & 16th Ave,0
+73216,SEA00413,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+29222,SEA00047,SLU-16,16,SLU,Pine St & 9th Ave,0
+25801,SEA00342,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+140151,SEA00356,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+73014,SEA00360,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+119008,SEA00369,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+3105,SEA00400,CH-07,07,CH,E Pine St & 16th Ave,0
+102865,SEA00348,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+141224,SEA00262,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+152727,SEA00410,BT-01,01,BT,3rd Ave & Broad St,0
+52405,SEA00358,CBD-03,03,CBD,7th Ave & Union St,0
+133105,SEA00455,BT-01,01,BT,3rd Ave & Broad St,0
+102092,SEA00235,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+74417,SEA00241,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+153625,SEA00418,CD-01,01,CD,12th Ave & E Yesler Way,0
+91897,SEA00176,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+114245,SEA00136,CBD-13,13,CBD,2nd Ave & Pine St,0
+107067,SEA00249,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+3308,SEA00036,CH-12,12,CH,Bellevue Ave & E Pine St,0
+91269,SEA00312,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+87641,SEA00498,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+113477,SEA00172,SLU-16,16,SLU,Pine St & 9th Ave,0
+8578,SEA00333,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+113885,SEA00409,CH-12,12,CH,Bellevue Ave & E Pine St,0
+145810,SEA00497,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+118976,SEA00424,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+93005,SEA00401,CH-15,15,CH,12th Ave & E Mercer St,0
+41399,SEA00070,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+73753,SEA00268,SLU-16,16,SLU,Pine St & 9th Ave,0
+119242,SEA00080,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+154345,SEA00188,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+127202,SEA00438,CH-07,07,CH,E Pine St & 16th Ave,0
+111928,SEA00025,CH-15,15,CH,12th Ave & E Mercer St,0
+145360,SEA00165,CBD-06,06,CBD,2nd Ave & Spring St,0
+3565,SEA00421,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+92953,SEA00166,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+56238,SEA00413,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+127383,SEA00328,CH-09,09,CH,Harvard Ave & E Pine St,0
+13404,SEA00153,BT-05,05,BT,2nd Ave & Blanchard St,0
+45287,SEA00390,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+138056,SEA00396,CBD-05,05,CBD,1st Ave & Marion St,0
+75248,SEA00166,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+150741,SEA00407,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+141405,SEA00071,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+151246,SEA00303,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+14851,SEA00173,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+151308,SEA00309,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+32138,SEA00245,BT-04,04,BT,6th Ave & Blanchard St,0
+143457,SEA00358,CBD-04,04,CBD,Union St & 4th Ave,0
+63795,SEA00356,CH-09,09,CH,Harvard Ave & E Pine St,0
+135447,SEA00301,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+3896,SEA00148,CH-07,07,CH,E Pine St & 16th Ave,0
+107257,SEA00485,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+65304,SEA00059,CH-01,01,CH,Summit Ave & E Denny Way,0
+14103,SEA00303,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+101906,SEA00275,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+98224,SEA00214,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+77488,SEA00373,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+121407,SEA00293,CBD-13,13,CBD,2nd Ave & Pine St,0
+48974,SEA00371,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+31483,SEA00236,BT-03,03,BT,2nd Ave & Vine St,0
+155476,SEA00165,BT-01,01,BT,3rd Ave & Broad St,0
+28697,SEA00472,CBD-03,03,CBD,7th Ave & Union St,0
+106456,SEA00248,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+156316,SEA00339,BT-01,01,BT,3rd Ave & Broad St,0
+127288,SEA00453,CH-07,07,CH,E Pine St & 16th Ave,0
+142744,SEA00423,CH-15,15,CH,12th Ave & E Mercer St,0
+31772,SEA00142,BT-03,03,BT,2nd Ave & Vine St,0
+86662,SEA00203,CBD-13,13,CBD,2nd Ave & Pine St,0
+113938,SEA00300,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+123417,SEA00496,BT-05,05,BT,2nd Ave & Blanchard St,0
+1191,SEA00327,UD-02,02,UD,NE 42nd St & University Way NE,0
+44565,SEA00427,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+87171,SEA00399,CH-05,05,CH,15th Ave E & E Thomas St,0
+14257,SEA00067,CH-03,03,CH,Summit Ave E & E Republican St,0
+93071,SEA00108,CBD-06,06,CBD,2nd Ave & Spring St,0
+121016,SEA00391,BT-04,04,BT,6th Ave & Blanchard St,0
+31647,SEA00235,BT-03,03,BT,2nd Ave & Vine St,0
+102837,SEA00337,CH-12,12,CH,Bellevue Ave & E Pine St,0
+85062,SEA00060,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+76318,SEA00461,CBD-05,05,CBD,1st Ave & Marion St,0
+82528,SEA00447,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+48181,SEA00154,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+68789,SEA00208,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+19929,SEA00282,SLU-16,16,SLU,Pine St & 9th Ave,0
+132577,SEA00212,BT-03,03,BT,2nd Ave & Vine St,0
+11997,SEA00476,CH-01,01,CH,Summit Ave & E Denny Way,0
+94458,SEA00031,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+90293,SEA00112,CBD-06,06,CBD,2nd Ave & Spring St,0
+679,SEA00152,UW-07,07,UW,UW Intramural Activities Building,0
+96898,SEA00081,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+156226,SEA00133,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+27551,SEA00091,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+11931,SEA00249,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+101381,SEA00482,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+152437,SEA00333,CBD-05,05,CBD,1st Ave & Marion St,0
+45279,SEA00117,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+111101,SEA00160,CBD-13,13,CBD,2nd Ave & Pine St,0
+148181,SEA00098,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+87324,SEA00040,SLU-16,16,SLU,Pine St & 9th Ave,0
+32352,SEA00453,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+30937,SEA00483,CBD-13,13,CBD,2nd Ave & Pine St,0
+119109,SEA00219,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+77109,SEA00388,CH-15,15,CH,12th Ave & E Mercer St,0
+39354,SEA00334,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+47361,SEA00045,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+144320,SEA00430,CH-03,03,CH,Summit Ave E & E Republican St,0
+6279,SEA00448,BT-03,03,BT,2nd Ave & Vine St,0
+25331,SEA00089,BT-01,01,BT,3rd Ave & Broad St,0
+110833,SEA00248,SLU-20,20,SLU,Terry Ave & Stewart St,0
+20994,SEA00109,BT-05,05,BT,2nd Ave & Blanchard St,0
+68947,SEA00477,BT-04,04,BT,6th Ave & Blanchard St,0
+61248,SEA00332,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+13138,SEA00355,CBD-05,05,CBD,1st Ave & Marion St,0
+45821,SEA00271,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+56906,SEA00388,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+66500,SEA00390,CH-03,03,CH,Summit Ave E & E Republican St,0
+18112,SEA00239,BT-05,05,BT,2nd Ave & Blanchard St,0
+146910,SEA00418,BT-01,01,BT,3rd Ave & Broad St,0
+133554,SEA00249,CH-07,07,CH,E Pine St & 16th Ave,0
+148312,SEA00100,UW-04,04,UW,15th Ave NE & NE 40th St,0
+100015,SEA00371,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+129978,SEA00246,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+106831,SEA00271,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+102007,SEA00429,SLU-20,20,SLU,Terry Ave & Stewart St,0
+28283,SEA00240,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+54039,SEA00431,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+83821,SEA00139,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+99988,SEA00180,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+52262,SEA00443,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+79192,SEA00330,UW-04,04,UW,15th Ave NE & NE 40th St,0
+140849,SEA00144,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+90175,SEA00143,CBD-05,05,CBD,1st Ave & Marion St,0
+40565,SEA00312,BT-01,01,BT,3rd Ave & Broad St,0
+134408,SEA00170,CH-07,07,CH,E Pine St & 16th Ave,0
+3913,SEA00334,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+46432,SEA00449,CH-09,09,CH,Harvard Ave & E Pine St,0
+135014,SEA00413,CBD-06,06,CBD,2nd Ave & Spring St,0
+152986,SEA00099,CH-01,01,CH,Summit Ave & E Denny Way,0
+55204,SEA00200,SLU-16,16,SLU,Pine St & 9th Ave,0
+95724,SEA00143,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+91870,SEA00342,CH-12,12,CH,Bellevue Ave & E Pine St,0
+140141,SEA00460,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+60896,SEA00095,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+35445,SEA00041,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+107966,SEA00198,CH-01,01,CH,Summit Ave & E Denny Way,0
+75614,SEA00261,CH-15,15,CH,12th Ave & E Mercer St,0
+30894,SEA00293,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+106650,SEA00422,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+153619,SEA00070,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+35687,SEA00265,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+42423,SEA00284,CBD-03,03,CBD,7th Ave & Union St,0
+50743,SEA00190,BT-05,05,BT,2nd Ave & Blanchard St,0
+51142,SEA00046,CBD-06,06,CBD,2nd Ave & Spring St,0
+2470,SEA00234,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+139830,SEA00394,CBD-03,03,CBD,7th Ave & Union St,0
+63572,SEA00212,CH-15,15,CH,12th Ave & E Mercer St,0
+4218,SEA00253,DPD-01,01,DPD,9th Ave N & Mercer St,0
+153189,SEA00315,CH-09,09,CH,Harvard Ave & E Pine St,0
+83375,SEA00313,CBD-13,13,CBD,2nd Ave & Pine St,0
+123387,SEA00372,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+89059,SEA00037,CH-07,07,CH,E Pine St & 16th Ave,0
+33477,SEA00394,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+53123,SEA00121,CH-07,07,CH,E Pine St & 16th Ave,0
+24959,SEA00268,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+111998,SEA00245,BT-01,01,BT,3rd Ave & Broad St,0
+86043,SEA00430,CBD-03,03,CBD,7th Ave & Union St,0
+41794,SEA00341,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+60854,SEA00159,SLU-16,16,SLU,Pine St & 9th Ave,0
+4676,SEA00198,CH-15,15,CH,12th Ave & E Mercer St,0
+2080,SEA00091,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+141845,SEA00135,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+134700,SEA00326,CBD-04,04,CBD,Union St & 4th Ave,0
+150651,SEA00500,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+15668,SEA00267,CBD-13,13,CBD,2nd Ave & Pine St,0
+95088,SEA00125,CH-15,15,CH,12th Ave & E Mercer St,0
+154301,SEA00295,CH-01,01,CH,Summit Ave & E Denny Way,0
+2028,SEA00111,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+121096,SEA00032,BT-05,05,BT,2nd Ave & Blanchard St,0
+118226,SEA00494,CH-03,03,CH,Summit Ave E & E Republican St,0
+81616,SEA00343,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+32804,SEA00352,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+98747,SEA00175,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+20277,SEA00185,DPD-01,01,DPD,9th Ave N & Mercer St,0
+52043,SEA00421,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+127494,SEA00053,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+63943,SEA00288,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+85768,SEA00296,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+106737,SEA00152,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+2450,SEA00022,CH-09,09,CH,Harvard Ave & E Pine St,0
+120162,SEA00360,CH-06,06,CH,12th Ave & E Denny Way,0
+83509,SEA00324,BT-04,04,BT,6th Ave & Blanchard St,0
+22376,SEA00342,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+93125,SEA00085,CBD-13,13,CBD,2nd Ave & Pine St,0
+138958,SEA00278,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+52474,SEA00420,SLU-16,16,SLU,Pine St & 9th Ave,0
+97086,SEA00444,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+83352,SEA00140,CH-01,01,CH,Summit Ave & E Denny Way,0
+5359,SEA00211,CH-07,07,CH,E Pine St & 16th Ave,0
+52188,SEA00061,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+142025,SEA00312,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+85224,SEA00282,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+144499,SEA00091,BT-01,01,BT,3rd Ave & Broad St,0
+128026,SEA00205,CBD-05,05,CBD,1st Ave & Marion St,0
+68949,SEA00388,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+126495,SEA00500,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+90599,SEA00166,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+140704,SEA00281,CH-07,07,CH,E Pine St & 16th Ave,0
+19407,SEA00105,CBD-06,06,CBD,2nd Ave & Spring St,0
+99403,SEA00327,CH-07,07,CH,E Pine St & 16th Ave,0
+31925,SEA00467,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+152011,SEA00267,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+108290,SEA00302,DPD-01,01,DPD,9th Ave N & Mercer St,0
+61446,SEA00048,CBD-03,03,CBD,7th Ave & Union St,0
+71396,SEA00195,BT-03,03,BT,2nd Ave & Vine St,0
+2429,SEA00034,CBD-03,03,CBD,7th Ave & Union St,0
+11712,SEA00114,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+52857,SEA00174,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+549,SEA00110,BT-04,04,BT,6th Ave & Blanchard St,0
+62663,SEA00119,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+98061,SEA00292,BT-05,05,BT,2nd Ave & Blanchard St,0
+33452,SEA00169,CH-07,07,CH,E Pine St & 16th Ave,0
+145036,SEA00022,CH-12,12,CH,Bellevue Ave & E Pine St,0
+7416,SEA00133,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+76450,SEA00400,CH-06,06,CH,12th Ave & E Denny Way,0
+61846,SEA00209,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+46980,SEA00463,CH-05,05,CH,15th Ave E & E Thomas St,0
+57817,SEA00422,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+1721,SEA00111,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+151253,SEA00074,CBD-03,03,CBD,7th Ave & Union St,0
+67811,SEA00165,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+105323,SEA00064,CH-07,07,CH,E Pine St & 16th Ave,0
+93093,SEA00235,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+116748,SEA00182,BT-01,01,BT,3rd Ave & Broad St,0
+32447,SEA00381,CH-08,08,CH,Cal Anderson Park / 11th Ave & Pine St,0
+25798,SEA00284,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+70040,SEA00180,SLU-16,16,SLU,Pine St & 9th Ave,0
+106860,SEA00041,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+146162,SEA00046,UD-02,02,UD,NE 42nd St & University Way NE,0
+60940,SEA00415,CBD-03,03,CBD,7th Ave & Union St,0
+90485,SEA00313,ID-04,04,ID,6th Ave S & S King St,0
+151164,SEA00244,ID-04,04,ID,6th Ave S & S King St,0
+123843,SEA00482,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+101356,SEA00249,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+13704,SEA00192,CBD-03,03,CBD,7th Ave & Union St,0
+99972,SEA00283,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+16441,SEA00091,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+57083,SEA00494,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+57897,SEA00193,SLU-16,16,SLU,Pine St & 9th Ave,0
+38602,SEA00113,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+60556,SEA00194,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+29248,SEA00217,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+84055,SEA00204,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+10301,SEA00034,BT-03,03,BT,2nd Ave & Vine St,0
+39823,SEA00461,CH-03,03,CH,Summit Ave E & E Republican St,0
+125965,SEA00199,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+107420,SEA00232,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+134860,SEA00395,CH-07,07,CH,E Pine St & 16th Ave,0
+102378,SEA00483,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+121817,SEA00418,BT-03,03,BT,2nd Ave & Vine St,0
+126188,SEA00036,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+65910,SEA00235,CBD-05,05,CBD,1st Ave & Marion St,0
+2751,SEA00203,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+136138,SEA00327,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+19021,SEA00108,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+94259,SEA00048,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+42410,SEA00391,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+114355,SEA00370,SLU-20,20,SLU,Terry Ave & Stewart St,0
+26399,SEA00046,CH-05,05,CH,15th Ave E & E Thomas St,0
+60857,SEA00116,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+92883,SEA00237,CBD-03,03,CBD,7th Ave & Union St,0
+24340,SEA00052,CH-06,06,CH,12th Ave & E Denny Way,0
+126846,SEA00407,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+152984,SEA00199,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+128746,SEA00242,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+124786,SEA00209,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+69200,SEA00067,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+94766,SEA00415,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+9554,SEA00181,SLU-16,16,SLU,Pine St & 9th Ave,0
+23593,SEA00186,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+26617,SEA00289,UW-04,04,UW,15th Ave NE & NE 40th St,0
+138908,SEA00457,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+8999,SEA00407,CBD-07,07,CBD,City Hall / 4th Ave & James St,0
+86919,SEA00436,BT-01,01,BT,3rd Ave & Broad St,0
+74205,SEA00092,UW-04,04,UW,15th Ave NE & NE 40th St,0
+69555,SEA00365,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+119001,SEA00136,BT-03,03,BT,2nd Ave & Vine St,0
+42336,SEA00388,SLU-19,19,SLU,Key Arena / 1st Ave N & Harrison St,0
+142689,SEA00265,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+103551,SEA00398,CBD-13,13,CBD,2nd Ave & Pine St,0
+125864,SEA00217,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+52206,SEA00259,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+57249,SEA00157,BT-01,01,BT,3rd Ave & Broad St,0
+19791,SEA00272,BT-01,01,BT,3rd Ave & Broad St,0
+12764,SEA00442,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+14689,SEA00403,CBD-03,03,CBD,7th Ave & Union St,0
+85080,SEA00423,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+111911,SEA00230,CD-01,01,CD,12th Ave & E Yesler Way,0
+42203,SEA00184,CH-05,05,CH,15th Ave E & E Thomas St,0
+155145,SEA00472,SLU-20,20,SLU,Terry Ave & Stewart St,0
+107260,SEA00455,BT-05,05,BT,2nd Ave & Blanchard St,0
+39101,SEA00297,UW-06,06,UW,UW Engineering Library / E Stevens Way NE & Jefferson Rd,0
+140848,SEA00329,CBD-13,13,CBD,2nd Ave & Pine St,0
+91029,SEA00443,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+17274,SEA00095,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+82273,SEA00025,BT-01,01,BT,3rd Ave & Broad St,0
+124195,SEA00194,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+62862,SEA00281,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+79323,SEA00252,CH-07,07,CH,E Pine St & 16th Ave,0
+54421,SEA00470,CBD-13,13,CBD,2nd Ave & Pine St,0
+19044,SEA00264,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+18792,SEA00111,CH-07,07,CH,E Pine St & 16th Ave,0
+142379,SEA00069,SLU-16,16,SLU,Pine St & 9th Ave,0
+96543,SEA00025,CH-06,06,CH,12th Ave & E Denny Way,0
+113827,SEA00180,CH-09,09,CH,Harvard Ave & E Pine St,0
+78931,SEA00232,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+153518,SEA00468,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+32112,SEA00110,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+1743,SEA00054,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+106175,SEA00218,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+134020,SEA00435,CH-01,01,CH,Summit Ave & E Denny Way,0
+74655,SEA00301,BT-05,05,BT,2nd Ave & Blanchard St,0
+57466,SEA00441,BT-01,01,BT,3rd Ave & Broad St,0
+66055,SEA00340,CH-15,15,CH,12th Ave & E Mercer St,0
+116630,SEA00411,BT-05,05,BT,2nd Ave & Blanchard St,0
+10479,SEA00448,BT-04,04,BT,6th Ave & Blanchard St,0
+92343,SEA00161,DPD-01,01,DPD,9th Ave N & Mercer St,0
+100961,SEA00448,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+144783,SEA00086,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+33642,SEA00310,BT-01,01,BT,3rd Ave & Broad St,0
+80873,SEA00482,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+13357,SEA00372,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+87233,SEA00342,CBD-13,13,CBD,2nd Ave & Pine St,0
+44159,SEA00230,BT-01,01,BT,3rd Ave & Broad St,0
+99475,SEA00099,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+102553,SEA00170,UW-10,10,UW,UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd,0
+120529,SEA00343,BT-05,05,BT,2nd Ave & Blanchard St,0
+125945,SEA00244,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+23378,SEA00157,CH-09,09,CH,Harvard Ave & E Pine St,0
+61136,SEA00259,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+13909,SEA00354,CH-05,05,CH,15th Ave E & E Thomas St,0
+122487,SEA00135,BT-03,03,BT,2nd Ave & Vine St,0
+8630,SEA00209,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+119947,SEA00031,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+55672,SEA00159,CH-05,05,CH,15th Ave E & E Thomas St,0
+100279,SEA00133,CBD-13,13,CBD,2nd Ave & Pine St,0
+140731,SEA00282,FH-04,04,FH,Seattle University / E Columbia St & 12th Ave,0
+146900,SEA00427,CH-07,07,CH,E Pine St & 16th Ave,0
+133736,SEA00391,CBD-13,13,CBD,2nd Ave & Pine St,0
+69567,SEA00391,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+111842,SEA00393,BT-05,05,BT,2nd Ave & Blanchard St,0
+105217,SEA00290,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+81651,SEA00226,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+44150,SEA00423,PS-05,05,PS,King Street Station Plaza / 2nd Ave Extension S & S Jackson St,0
+120937,SEA00229,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+144695,SEA00455,CH-07,07,CH,E Pine St & 16th Ave,0
+2173,SEA00034,CBD-03,03,CBD,7th Ave & Union St,0
+50176,SEA00038,CBD-05,05,CBD,1st Ave & Marion St,0
+17708,SEA00423,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+29118,SEA00458,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+27290,SEA00334,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+119949,SEA00410,CBD-03,03,CBD,7th Ave & Union St,0
+55140,SEA00115,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+98330,SEA00257,DPD-03,03,DPD,Children's Hospital / Sandpoint Way NE & 40th Ave NE,0
+55553,SEA00230,CBD-03,03,CBD,7th Ave & Union St,0
+74639,SEA00169,CH-06,06,CH,12th Ave & E Denny Way,0
+54964,SEA00343,CH-03,03,CH,Summit Ave E & E Republican St,0
+138867,SEA00206,CH-09,09,CH,Harvard Ave & E Pine St,0
+38308,SEA00140,BT-05,05,BT,2nd Ave & Blanchard St,0
+39117,SEA00099,UD-01,01,UD,Burke-Gilman Trail / NE Blakeley St & 24th Ave NE,0
+91749,SEA00458,BT-01,01,BT,3rd Ave & Broad St,0
+76276,SEA00235,BT-04,04,BT,6th Ave & Blanchard St,0
+64524,SEA00139,SLU-18,18,SLU,Dexter Ave & Denny Way,0
+18466,SEA00249,PS-04,04,PS,Occidental Park / Occidental Ave S & S Washington St,1
+152022,SEA00248,DPD-01,01,DPD,9th Ave N & Mercer St,0
+7075,SEA00342,CBD-05,05,CBD,1st Ave & Marion St,0
+19206,SEA00122,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+121979,SEA00442,EL-01,01,EL,Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St,0
+90777,SEA00194,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+103171,SEA00070,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+78866,SEA00101,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+8168,SEA00207,SLU-02,02,SLU,Dexter Ave N & Aloha St,0
+149003,SEA00201,CBD-05,05,CBD,1st Ave & Marion St,0
+59986,SEA00133,CH-02,02,CH,E Harrison St & Broadway Ave E,0
+111704,SEA00390,SLU-17,17,SLU,Lake Union Park / Valley St & Boren Ave N,0
+50198,SEA00247,CH-07,07,CH,E Pine St & 16th Ave,0
+97708,SEA00336,UW-04,04,UW,15th Ave NE & NE 40th St,0
+80114,SEA00273,CBD-13,13,CBD,2nd Ave & Pine St,0
+48032,SEA00305,CBD-13,13,CBD,2nd Ave & Pine St,0
+9195,SEA00350,UD-04,04,UD,12th Ave & NE Campus Pkwy,0
+118608,SEA00392,CBD-05,05,CBD,1st Ave & Marion St,0
+109706,SEA00383,SLU-04,04,SLU,Republican St & Westlake Ave N,0
+103768,SEA00384,EL-05,05,EL,Eastlake Ave E & E Allison St,0
+155744,SEA00336,CBD-13,13,CBD,2nd Ave & Pine St,0
+84823,SEA00200,WF-04,04,WF,Seattle Aquarium / Alaskan Way S & Elliott Bay Trail,0
+19241,SEA00168,SLU-07,07,SLU,PATH / 9th Ave & Westlake Ave,0
+119004,SEA00361,SLU-16,16,SLU,Pine St & 9th Ave,0
+80920,SEA00223,CBD-05,05,CBD,1st Ave & Marion St,0
+72307,SEA00248,CBD-05,05,CBD,1st Ave & Marion St,0
+25133,SEA00058,CH-07,07,CH,E Pine St & 16th Ave,0
+79343,SEA00154,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+133157,SEA00141,FH-01,01,FH,Frye Art Museum / Terry Ave & Columbia St,0
+51731,SEA00149,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+85961,SEA00202,UD-07,07,UD,NE 47th St & 12th Ave NE,0
+10011,SEA00341,EL-03,03,EL,E Blaine St & Fairview Ave E,0
+78967,SEA00052,UW-04,04,UW,15th Ave NE & NE 40th St,0
+64692,SEA00272,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+127644,SEA00102,UW-07,07,UW,UW Intramural Activities Building,0
+129991,SEA00472,SLU-20,20,SLU,Terry Ave & Stewart St,0
+47842,SEA00024,SLU-01,01,SLU,REI / Yale Ave N & John St,0
+100289,SEA00237,SLU-15,15,SLU,Westlake Ave & 6th Ave,0
+83813,SEA00251,DPD-01,01,DPD,9th Ave N & Mercer St,0
+87469,SEA00412,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+104062,SEA00250,CH-07,07,CH,E Pine St & 16th Ave,0
+60640,SEA00437,UW-01,01,UW,UW McCarty Hall / Whitman Ct,0
+145122,SEA00165,CH-12,12,CH,Bellevue Ave & E Pine St,0
+48542,SEA00440,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+56640,SEA00198,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+101413,SEA00474,CBD-06,06,CBD,2nd Ave & Spring St,0
+65985,SEA00193,SLU-16,16,SLU,Pine St & 9th Ave,0
+76171,SEA00179,WF-01,01,WF,Pier 69 / Alaskan Way & Clay St,0
+41356,SEA00238,CBD-05,05,CBD,1st Ave & Marion St,0
+53777,SEA00080,UW-02,02,UW,Burke Museum / E Stevens Way NE & Memorial Way NE,0
+30676,SEA00471,CBD-06,06,CBD,2nd Ave & Spring St,0
